@@ -6,9 +6,6 @@
 - Give you program a name and a redirect URL(http://<span></span>localhost).
 - On the final screen note your client id and secret.
 
-| Create Account | Access Developer | Name | ID and secret |
-| --- | --- | --- | --- |
-
 
 ## Run download script!
 - Add any subs you want to download to the sub_list.csv one per line.
